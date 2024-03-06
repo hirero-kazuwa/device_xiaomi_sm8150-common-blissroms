@@ -4,8 +4,6 @@ type hal_dms_hwservice, hwservice_manager_type;
 
 type hal_micharge_hwservice, hwservice_manager_type;
 
-type hal_misys_hwservice, hwservice_manager_type;
-
 type hal_mlipay_hwservice, hwservice_manager_type;
 
 type hal_motor_hwservice, hwservice_manager_type;
